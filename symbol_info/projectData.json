@@ -1,0 +1,11 @@
+{
+    "symbol": [
+        "calc_usd_eur_1",
+        "calc_usd_eur_2"
+    ],
+    "pricescale": 10,
+    "description": [
+        "Calc for usd/eur 1.0",
+        "Calc for usd/eur 2.0"
+    ]
+}
